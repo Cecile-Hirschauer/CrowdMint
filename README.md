@@ -1,7 +1,5 @@
 # CrowdSpark 🚀
 
-![logo CrowdSpark](CrowdSpark_logo.png)
-
 **CrowdSpark** is a blockchain-based crowdfunding platform designed to help creators and innovators raise funds for their unique and bold projects. Using tokens, contributors can pre-order products or support quirky ideas while receiving exclusive rewards.
 
 ## Vision 🌟

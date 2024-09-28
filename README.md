@@ -1,6 +1,6 @@
-# CrowdSpark 🚀
+# CrowdMint 🚀
 
-**CrowdSpark** is a blockchain-based crowdfunding platform designed to help creators and innovators raise funds for their unique and bold projects. Using tokens, contributors can pre-order products or support quirky ideas while receiving exclusive rewards.
+**CrowdMint** is a blockchain-based crowdfunding platform designed to help creators and innovators raise funds for their unique and bold projects. Using tokens, contributors can pre-order products or support quirky ideas while receiving exclusive rewards.
 
 ## Vision 🌟
 
@@ -22,4 +22,4 @@ We believe that every idea, whether revolutionary or completely out-of-the-box, 
 
 ## Join Us! 🚀
 
-Ready to be part of the next big idea or support a project that resonates with you? **CrowdSpark** is the perfect place to ignite that spark and let innovation shine.
+Ready to be part of the next big idea or support a project that resonates with you? **CrowdMint** is the perfect place to ignite that spark and let innovation shine.
